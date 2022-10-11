@@ -1,0 +1,4 @@
+#Tue Oct 11 21:20:44 IST 2022
+base.0=D\:\\DEV\\flutter_apps\\Flutter-Responsive-Admin-Panel-or-Dashboard\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
